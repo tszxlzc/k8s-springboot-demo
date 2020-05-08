@@ -11,6 +11,6 @@ public class K8SController {
 
     @RequestMapping("/k8s")
     public String k8s(){
-        return "hello K8s <br/>111222 坎坷中前行，也会达到目标";
+        return "hello K8s <br/>111222 坎坷中前行，也会达到目标, 真是坎坷呢";
     }
 }
